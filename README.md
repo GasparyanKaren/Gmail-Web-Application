@@ -2,7 +2,7 @@
 <h3>Login, Registrtation, Log out</h3>
 <h4><strong> Hardware </strong></h4>
 <ul>
-<li><em> PC (Acer)</li>
+<li><em> PC (Acer)<em/></li>
 <h4><strong> Version OS </h4></strong>
 <ul>
 <li><em> Windows 8.1 </em></li>
