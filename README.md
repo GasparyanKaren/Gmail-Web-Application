@@ -1,6 +1,4 @@
-<h2>Gmail-Web-Application</h2>
-
-<h3>Login, Registrtation, Log out</h3>
+<h2>Component Gmail Web Application Login</h2>
 
 <h4><strong><em> Hardware </em></strong></h4>
 <ul>
@@ -46,9 +44,18 @@
 <li><em> Password: Team2test</em></li>
 </ul> 
 
+<h4><strong><em> Post Condition </em></strong></h4>
+<ul>
+<li><em>Home page "Gmail account page</em></li>
+</ul> 
 
+<h4><strong><em> Expected Result </em></strong></h4>
+<ul>
+<li><em>Logged in to Gmail account</em></li>
+</ul>
 
-
-
-
+<h4><strong><em> Actual Result </em></strong></h4>
+<ul>
+<li><em>As Expected</em></li>
+</ul>
 
