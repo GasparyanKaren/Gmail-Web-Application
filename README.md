@@ -40,7 +40,10 @@
 <li><em>Click on Sign in button</em></li>
 </ol>
 
-
+<h4><strong><em> Test Data </em></strong></h4>
+<ul>
+<li><em>Email Id: teamtest1661@gmail.com Password: Team2test</em></li>
+</ul> 
 
 
 
