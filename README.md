@@ -1,6 +1,6 @@
 <h2>Gmail-Web-Application</h2>
 <h3>Login, Registrtation, Log out</h3>
-<h4><strong> Hardware </strong></h4>
+<h4><strong><em> Hardware </em></strong></h4>
 <ul>
 <li><em> PC (Acer)<em/></li>
 <h4><strong> Version OS </h4></strong>
