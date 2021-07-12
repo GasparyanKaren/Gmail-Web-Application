@@ -42,7 +42,8 @@
 
 <h4><strong><em> Test Data </em></strong></h4>
 <ul>
-<li><em>Email Id: teamtest1661@gmail.com Password: Team2test</em></li>
+<li><em>Email Id: teamtest1661@gmail.com</em></li>
+<li><em> Password: Team2test</em></li>
 </ul> 
 
 
